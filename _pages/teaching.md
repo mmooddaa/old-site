@@ -2,10 +2,32 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+**Primary Instructor**
+- When Paper Beats Scissors: The Role of Courts in International Politics (Cornell University, 2015)
+
+**Teaching Assistant**
+- Inquiry in Politics and Policy, with David Silbey (Cornell in Washington, 2017 & 2018)
+- The Cold War, with Matthew Evangelista (Cornell University, 2016)
+- Freedom and Justice in the Western Tradition, with Isaac Kramnick (Cornell University, 2015)
+- Democracy and Its Discontents, with Alexander Livingston (Cornell University, 2015)
+- Constitutional Law, with Joseph Margulies (Cornell University, 2014)
+
+**Additional Service**
+- Fellow, [Center for Teaching Innovation](https://teaching.cornell.edu) (Cornell University, 2016-2017)
+- International Relations Minor Coordinator (Cornell University, 2016-2017)
+
+Student evaluations available upon request.
+
+### Prospective Courses
+
+- Introduction to International Relations
+- International Political Economy
+- Conflict and Dispute Resolution
+- International Organizations and Law
+- International Courts
