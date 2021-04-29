@@ -5,6 +5,11 @@ title: teaching
 description:
 nav: true
 ---
+<div align="center" markdown="1">
+[Teaching Experience](#teaching-experience) &middot; [Prospective Courses](#prospective-courses)
+</div>
+
+<hr class="rounded" style="width:35%;">
 
 ### Teaching Experience
 
@@ -23,6 +28,8 @@ nav: true
 - International Relations Minor Coordinator (Cornell University, 2016-2017)
 
 Student evaluations available upon request.
+
+<hr class="rounded" style="width:35%;">
 
 ### Prospective Courses
 
