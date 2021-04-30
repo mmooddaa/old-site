@@ -27,9 +27,9 @@ nav: true
 - Fellow, [Center for Teaching Innovation](https://teaching.cornell.edu) (Cornell University, 2016-2017)
 - International Relations Minor Coordinator (Cornell University, 2016-2017)
 
-Student evaluations available upon request.
+Student evaluations available upon request.<br><br>
 
-<hr class="sectiondiv">
+<hr class="sectiondiv"><br>
 
 ### Prospective Courses
 
