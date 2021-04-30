@@ -56,7 +56,16 @@ Finally, I use data on the enactment of legislation based on the UN Commission o
 ### Works in Progress
 
 - *Sources of Gender and National Bias in the Selection of Arbitrators at the International Chamber of Commerce*
+  <p style="margin-left:5%" markdown="1">
+  **Overview**<br>
+  For my dissertation research, I collected nationality data on the universe of arbitrators appointed to serve on all arbitration panels registered with the International Chamber of Commerce from 2016 to the present. I am now in the process of improving and expanding this dataset and collecting detailed demographic, educational, and professional data to examine trends in the evolution of the international arbitration profession.</p>
 
 - *Populism and the Termination of Bilateral Investment Treaties* (with [Jimena Valdez](https://jimenavaldez.weebly.com), London School of Economics and Political Science)
+  <p style="margin-left:5%" markdown="1">
+  **Overview**<br>
+  </p>
 
-- *Popular Legitimacy of Central Bank Independence* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com), Wellesley College)
+- *Crisis, Expanding Mandates and the Popular Legitimacy of Central Bank Independence* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com), Wellesley College)
+  <p style="margin-left:5%" markdown="1">
+  **Overview**<br>
+  We are in the process of designing and deploying a nationally representative survey in the United States to examine the political determinants of attitudes towards central bank independence, focusing on the effects of recent expansions in central bank mandates and activities seen in the US and around the world since the 2008 financial crisis. This research is supported by the [Institute for Humane Studies](https://theihs.org) at George Mason University.</p>
