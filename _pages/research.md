@@ -27,7 +27,7 @@ How do local development incentives shift when authority traditionally rooted in
 
 <center>&middot; &middot; &middot;</center>
 
-[Extra-Territorial Law Enforcement as a Mechanism of Policy Diffusion: A Reappraisal of the OECD Anti-Bribery Convention]() (with Elizabeth Acorn, University of Toronto)
+[Extra-Territorial Law Enforcement as a Mechanism of Policy Diffusion: A Reappraisal of the OECD Anti-Bribery Convention]() (with [Elizabeth Acorn](http://www.elizabethacorn.com), University of Toronto)
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 We collect new data on enforcement of the OECD Anti-Bribery Convention. We find that . </p>
@@ -57,6 +57,6 @@ Finally, I use data on the enactment of legislation based on the UN Commission o
 
 - *Sources of Gender and National Bias in the Selection of Arbitrators at the International Chamber of Commerce*
 
-- *Populism and the Termination of Bilateral Investment Treaties* (with Jimena Valdez, London School of Economics and Political Science)
+- *Populism and the Termination of Bilateral Investment Treaties* (with [Jimena Valdez}(https://jimenavaldez.weebly.com), London School of Economics and Political Science)
 
-- *Popular Legitimacy of Central Bank Independence* (with Aditi Sahasrabuddhe, Wellesley College)
+- *Popular Legitimacy of Central Bank Independence* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com), Wellesley College)
