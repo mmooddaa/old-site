@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
- 
+
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
@@ -22,6 +22,11 @@
     padding-top: 12px;
     display : block;
   }
+
+  hr.sectiondiv {
+    width: 30%;
+  }
+
 }
 
 html[data-theme='dark'] {
@@ -44,4 +49,10 @@ html[data-theme='dark'] {
   .fa-moon {
     display : none;
   }
+
+  hr.sectiondiv {
+  border: .5px solid #ffffff;
+  width: 30%;
+}
+
 }

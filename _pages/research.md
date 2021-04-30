@@ -6,10 +6,10 @@ description:
 nav: true
 ---
 <div align="center" markdown="1">
-[Dissertation Project](#dissertation-project) &middot; [Working Papers](#working-papers) &middot; [Works in Progress](#works-in-progress)
+[Working Papers](#working-papers) &middot; [Dissertation Project](#dissertation-project) &middot; [Works in Progress](#works-in-progress)
 </div>
 
-<hr class="rounded" style="width:35%;">
+<hr class="sectiondiv">
 
 ### Working Papers
 
@@ -39,13 +39,7 @@ In this paper I argue that the growth of ICA has eroded the link between domesti
 **Overview**<br>
 In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. ICA thus serves as a substitute for local courts. The results lend support to the view that the modern international investment regime is developing into a transnational legal institution increasingly independent of domestic political and legal institutions.</p>
 
-<hr class="rounded" style="width:35%;">
-
-### Works in Progress
-
-*International Courts as Authoritarian Signaling Device: Reputation and Dispute Settlement in the World Trade Organization*
-
-<hr class="rounded" style="width:35%;">
+<hr class="sectiondiv">
 
 ### Dissertation Project
 
@@ -56,3 +50,13 @@ My dissertation focuses on the privatization of international commercial dispute
 I utilize extensive archival materials to trace the origins of the transnational movement behind ICA from the late 19th century to the present. I show how what began as informal, peer-driven dispute resolution process designed as an escape from public courts and the legal profession came to be dominated by the legal profession. Transnational business and legal professionals won the support of international organizations including the League of Nations and United Nations to assist in the diffusion of legal protections for ICA around the globe through the promulgation of multilateral treaties and model laws. I present a novel theory of institutional change that helps account for the out-sized role of private, professional groups in the construction of transnational legal regimes such as ICA. Beyond providing know-how and expertise to the process of institutional design, I argue that expert and professional groups seek to enhance their professional prestige and workload by shaping institutions in order to cement their own authority over the institution's mandate.
 
 Finally, I use data on the enactment of legislation based on the UN Commission on International Trade Law’s Model Law on Commercial Arbitration as well as case, roster and professional membership data from leading arbitration centers and professional institutions to examine the effect of ICA on the authority of domestic courts. I show the ICA serves as a systemic substitute for local courts in regard to foreign direct investment, negating the well-known sensitivity of foreign direct investors to the quality of local legal institutions. The growth of ICA the indirect effect of siphoning talent out of the local legal profession and reducing pressure from local and international commercial interest groups for state investment in progressive rule of law reforms.
+
+<hr class="sectiondiv">
+
+### Works in Progress
+
+- *Sources of Gender and National Bias in the Selection of Arbitrators at the International Chamber of Commerce*
+
+- *Populism and the Termination of Bilateral Investment Treaties* (with Jimena Valdez, London School of Economics and Political Science)
+
+- *Popular Legitimacy of Central Bank Independence* (with Aditi Sahasrabuddhe, Wellesley College)

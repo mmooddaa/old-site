@@ -9,7 +9,7 @@ nav: true
 [Teaching Experience](#teaching-experience) &middot; [Prospective Courses](#prospective-courses)
 </div>
 
-<hr class="rounded" style="width:35%;">
+<hr class="sectiondiv">
 
 ### Teaching Experience
 
@@ -29,7 +29,7 @@ nav: true
 
 Student evaluations available upon request.
 
-<hr class="rounded" style="width:35%;">
+<hr class="sectiondiv">
 
 ### Prospective Courses
 
