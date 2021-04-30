@@ -13,31 +13,31 @@ nav: true
 
 ### Working Papers
 
-[Complement or Substitute? International Commercial Arbitration and the Diminishing Authority of Domestic Courts](link) **(revise and resubmit)**
+[Complement or Substitute? International Commercial Arbitration and the Diminishing Authority of Domestic Courts]() **(revise and resubmit)**
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
 
 <center>&middot; &middot; &middot;</center>
 
-[Unbundling the State: International Commercial Arbitration and the Privatization of Judicial Functions](link)
+[Unbundling the State: International Commercial Arbitration and the Privatization of Judicial Functions]()
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. ICA thus serves as a substitute for local courts. The results lend support to the view that the modern international investment regime is developing into a transnational legal institution increasingly independent of domestic political and legal institutions.</p>
+How do local development incentives shift when authority traditionally rooted in domestic state institutions has been delegated to transnational institutions? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule of law states.</p>
 
 <center>&middot; &middot; &middot;</center>
 
-[Extra-Territorial Law Enforcement as a Mechanism of Policy Diffusion: A Reappraisal of the OECD Anti-Bribery Convention](link) (with Elizabeth Acorn, University of Toronto)
+[Extra-Territorial Law Enforcement as a Mechanism of Policy Diffusion: A Reappraisal of the OECD Anti-Bribery Convention]() (with Elizabeth Acorn, University of Toronto)
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. ICA thus serves as a substitute for local courts. The results lend support to the view that the modern international investment regime is developing into a transnational legal institution increasingly independent of domestic political and legal institutions.</p>
+We collect new data on enforcement of the OECD Anti-Bribery Convention. We find that . </p>
 
 <center>&middot; &middot; &middot;</center>
 
-[The Corruption Penalty: Global Commerce, Bribery and the Growing Fear of Getting Caught](link)
+[The Corruption Penalty: Global Commerce, Bribery and the Growing Fear of Getting Caught]()
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. ICA thus serves as a substitute for local courts. The results lend support to the view that the modern international investment regime is developing into a transnational legal institution increasingly independent of domestic political and legal institutions.</p>
+I argue that the growth of enforcement of the United States Foreign Corrupt Practices Act (FCPA), which criminalizes bribery of foreign officials in exchange for a business advantage, has increased the sensitivity of foreign investors to the risks of investing in corrupt regimes. I find that FCPA enforcement has a negative effect on the intensive margin of US FDI (which I measure as aggregate employment in US-owned foreign affiliates) but little to no effect on the extensive margin (the number of US-owned foreign affiliates).</p>
 
 <hr class="sectiondiv">
 
