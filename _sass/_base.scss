@@ -8,6 +8,23 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
 
+/*
+div.clearfix {
+  color: var(--global-text-color);
+  font-size: 1.1rem;
+  //font-weight: 400;
+}
+
+
+
+article {
+  color: var(--global-text-color);
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+
+*/
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -87,6 +104,7 @@ a, table.table a {
   border-bottom: 1px solid $grey-color-light;
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  // font-size: 1.1rem;
 }
 .navbar.navbar-light {
   a {
@@ -96,6 +114,7 @@ a, table.table a {
   }
   .navbar-brand {
     color: var(--global-text-color);
+    // font-size: 1.4rem; // Original: 1.25
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
