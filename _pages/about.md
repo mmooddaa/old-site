@@ -18,4 +18,4 @@ Welcome!
 
 I am a Postgraduate Associate at the [Jackson Institute for Global Affairs](https://jackson.yale.edu) and Department of Political Science at Yale University and a PhD Candidate in the Department of Government at Cornell University.  My research focuses on international organization, law and political economy. I am currently completing my dissertation which examines the role of private authority in the governance of international commerce, specifically the global movement to promote international commercial arbitration. I trace the growth of the international commercial arbitration regime from the late 19th century to the present and investigate how arbitration influences the power of countries to regulate foreign commerce.
 
-Please feel free to get in touch with me [here.](michael.allen@yale.edu)
+Please feel free to get in touch with me [here.](mailto:michael.allen@yale.edu)
