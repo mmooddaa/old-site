@@ -30,6 +30,7 @@ How do local development incentives shift when authority traditionally rooted in
 [Extra-Territorial Law Enforcement as a Mechanism of Policy Diffusion: A Reappraisal of the OECD Anti-Bribery Convention]() (with [Elizabeth Acorn](http://www.elizabethacorn.com), University of Toronto)
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
+
 </p>
 
 <center>&middot; &middot; &middot;</center>
@@ -63,6 +64,7 @@ Finally, I use data on the enactment of legislation based on the UN Commission o
 - *Populism and the Termination of Bilateral Investment Treaties* (with [Jimena Valdez](https://jimenavaldez.weebly.com), London School of Economics and Political Science)
   <p style="margin-left:5%" markdown="1">
   **Overview**<br>
+  
   </p>
 
 - *Crisis, Expanding Mandates and the Popular Legitimacy of Central Bank Independence* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com), Wellesley College)
