@@ -25,14 +25,16 @@ In this paper I argue that the growth of ICA has eroded the link between domesti
 **Overview**<br>
 How do local development incentives shift when authority traditionally rooted in domestic state institutions has been delegated to transnational institutions? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule of law states.</p>
 
+
+<!--
 <center>&middot; &middot; &middot;</center>
-<!-->
+
 [Extra-Territorial Law Enforcement as a Mechanism of Policy Diffusion: A Reappraisal of the OECD Anti-Bribery Convention]() (with [Elizabeth Acorn](http://www.elizabethacorn.com), University of Toronto)
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 In this paper we critically assess the diffusion hypothesis. Using an updated and improved dataset on enforcement of the OECD Anti-foreign Bribery Convention, we find evidence that the effects of diffusion dissipate. We instead develop a new measure of corruption exposure which is highly predictive of enforcement of the Convention. Our findings intervene on the debate surrounding the "under-enforcement" of the Convention by providing an empirical baseline against.
 </p>
-<!-->
+-->
 
 <center>&middot; &middot; &middot;</center>
 
