@@ -105,7 +105,7 @@ a, table.table a {
   border-bottom: 1px solid $grey-color-light;
   background-color: var(--global-bg-color);
   opacity: 0.95;
-  // font-size: 1.1rem;
+  font-size: 1.1rem;
 }
 .navbar.navbar-light {
   a {
@@ -115,7 +115,7 @@ a, table.table a {
   }
   .navbar-brand {
     color: var(--global-text-color);
-    // font-size: 1.4rem; // Original: 1.25
+    font-size: 1.25rem; // Original: 1.25
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);

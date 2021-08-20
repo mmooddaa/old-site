@@ -21,19 +21,21 @@ In this paper I argue that the growth of ICA has eroded the link between domesti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-<!--
-[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy]()(with [Kenneth Scheve, Yale University](https://scheve-research.org/) **(under review)**
+
+[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy](/assets/papers/AllenScheve_Competition_July2021.pdf) **(under review)**
+<br>
+(with [Kenneth Scheve](https://scheve-research.org/))
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
+From the earliest antitrust policy debates, concerns that robust competition policies aimed at limiting economic concentration would disadvantage domestic producers featured prominently. This dynamic creates an international cooperation problem over competition policy that has intensified with the dramatic increases in globalization over the last several decades. We argue that democratic hegemons have played a critical role in overcoming this cooperation problem and shaping the limited cooperation that has been achieved. We demonstrate this through both a cross-national event history analysis as well as case studies of two international waves of antitrust legislation after World War II and the Cold War.
 </p>
 
-<center>&middot; &middot; &middot;</center>
--->
+<center>&middot; &middot; &middot; &middot; &middot;</center>
 
 [Unbundling the State: Legal Development in an Era of Global, Private Governance]()
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-How do local development incentives shift when authority traditionally rooted in domestic state institutions has been delegated to transnational institutions? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule of law states.</p>
+How do local development incentives shift when authority traditionally rooted in domestic state institutions has been delegated to transnational institutions? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule-of-law states.</p>
 
 
 <!--
@@ -70,17 +72,21 @@ Finally, I use data on the enactment of legislation based on the UN Commission o
 ### Works in Progress
 
 - *Sources of Gender and National Bias in the Selection of Arbitrators at the International Chamber of Commerce*
+
   <p style="margin-left:5%" markdown="1">
   **Overview**<br>
   For my dissertation research, I collected nationality data on the universe of arbitrators appointed to serve on all arbitration panels registered with the International Chamber of Commerce from 2016 to the present. I am now in the process of improving and expanding this dataset and collecting detailed demographic, educational, and professional data to examine trends in the evolution of the international arbitration profession.</p>
 
-- *Populism and the Termination of Bilateral Investment Treaties* (with [Jimena Valdez](https://jimenavaldez.weebly.com), London School of Economics and Political Science)
+- *Populism and the Termination of Bilateral Investment Treaties* <br> (with [Jimena Valdez](https://www.lse.ac.uk/european-institute/people/valdez-jimena))
+
   <p style="margin-left:5%" markdown="1">
   **Overview**<br>
 
   </p>
 
-- *Crisis, Expanding Mandates and the Popular Legitimacy of Central Bank Independence* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com), Wellesley College)
+- *Crisis, Expanding Mandates and the Popular Legitimacy of Central Bank Independence* <br>
+(with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com))
+
   <p style="margin-left:5%" markdown="1">
   **Overview**<br>
   We are in the process of designing and deploying a nationally representative survey in the United States to examine the political determinants of attitudes towards central bank independence, focusing on the effects of recent expansions in central bank mandates and activities seen in the US and around the world since the 2008 financial crisis. This research is supported by the [Institute for Humane Studies](https://theihs.org) at George Mason University.</p>
