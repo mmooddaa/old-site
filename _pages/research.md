@@ -13,7 +13,7 @@ nav: true
 
 ### Working Papers
 
-[Is International Commercial Arbitration a Complement or Substitute for Domestic Legal Institutions?]() **(revise and resubmit)**
+[Is International Commercial Arbitration a Complement or Substitute for Domestic Legal Institutions?](/assets/papers/MAllen_2021_ICA_Sub_or_Comp.pdf) **(revise and resubmit)**
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
@@ -50,7 +50,7 @@ In this paper we critically assess the diffusion hypothesis. Using an updated an
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[The Corruption Penalty: Global Commerce, Bribery and the Growing Fear of Getting Caught]()
+*The Corruption Penalty: Global Commerce, Bribery and the Growing Fear of Getting Caught*
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 I argue that the growth of enforcement of the United States Foreign Corrupt Practices Act (FCPA), which criminalizes bribery of foreign officials in exchange for a business advantage, has increased the sensitivity of foreign investors to the risks of investing in corrupt regimes. I find that FCPA enforcement has a negative effect on the intensive margin of US FDI (which I measure as aggregate employment in US-owned foreign affiliates) but little to no effect on the extensive margin (the number of US-owned foreign affiliates). (Available upon request)</p><br>

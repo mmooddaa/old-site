@@ -33,6 +33,7 @@ Student evaluations available upon request.<br><br>
 
 ### Prospective Courses
 
+- Global Economic Governance
 - Introduction to International Relations
 - International Political Economy
 - Conflict and Dispute Resolution
