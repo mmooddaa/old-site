@@ -50,7 +50,8 @@ In this paper we critically assess the diffusion hypothesis. Using an updated an
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-*Democracy, Inequality and Antitrust* (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
+*Democracy, Inequality and Antitrust* <br>
+(with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
 
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
