@@ -50,6 +50,14 @@ In this paper we critically assess the diffusion hypothesis. Using an updated an
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
+*Democracy, Inequality and Antitrust* (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
+
+<p style="margin-left:5%" markdown="1">
+**Overview**<br>
+This paper investigates the relationship between democracy, inequality, and antitrust policy. Strong antitrust policies advance the economic and political interests of a majority of citizens and their adoption may be more likely in institutional settings that weigh more heavily the interest of voters. Rising inequality may, on the one hand, increase voter demands for strict antitrust policies, or, on the other hand indicate greater interest and resources aimed at blocking such reforms. We find that democracy is predictive of stricter antitrust policies only in countries with low levels of inequality. This result is consistent with the idea that economic inequality can undermine the democratic forces that tend toward stronger antitrust policy. We then investigate an important supposed exception to this pattern: the case of progressive era US reforms. (Available upon request)</p><br>
+
+<center>&middot; &middot; &middot; &middot; &middot;</center>
+
 *The Corruption Penalty: Global Commerce, Bribery and the Growing Fear of Getting Caught*
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
