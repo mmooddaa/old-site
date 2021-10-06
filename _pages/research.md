@@ -59,6 +59,14 @@ This paper investigates the relationship between democracy, inequality, and anti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
+[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2021_Spillover.pdf) <br>
+(with [Elizabeth Acorn](http://www.elizabethacorn.com))
+<p style="margin-left:5%" markdown="1">
+**Overview**<br>
+Can prosecutions by US authorities help spread enforcement of anti-foreign bribery laws to other countries? In this article, we explore this question by re-examining an earlier study that found that US prosecutions of foreign defendants under the Foreign Corrupt Practices Act increases the likelihood that the defendant’s home state will enforces its own anti-foreign bribery laws. Using our updated and improved dataset, we find that the relationship reported in earlier scholarship does not hold. Instead, our research indicates that the exposure of states to risks of foreign bribery is an important and overlooked predictor of the likelihood of enforcement. We outline promising avenues for future research on transnational law enforcement relating to bribery in international business and in other areas.</p><br>
+
+<center>&middot; &middot; &middot; &middot; &middot;</center>
+
 *The Corruption Penalty: Global Commerce, Bribery and the Growing Fear of Getting Caught*
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
