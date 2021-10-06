@@ -18,9 +18,7 @@ nav: true
 **Overview**<br>
 In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
 
-
 <center>&middot; &middot; &middot; &middot; &middot;</center>
-
 
 [Sustaining Capitalism and Democracy: Lessons from Global Competition Policy](/assets/papers/AllenScheve_Competition_July2021.pdf) **(under review)**
 <br>
@@ -37,17 +35,6 @@ From the earliest antitrust policy debates, concerns that robust competition pol
 **Overview**<br>
 How do local development incentives shift when authority traditionally rooted in domestic state institutions has been delegated to transnational institutions? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule-of-law states.</p>
 
-
-<!--
-<center>&middot; &middot; &middot;</center>
-
-[Extra-Territorial Law Enforcement as a Mechanism of Policy Diffusion: A Reappraisal of the OECD Anti-Bribery Convention]() (with [Elizabeth Acorn](http://www.elizabethacorn.com), University of Toronto)
-<p style="margin-left:5%" markdown="1">
-**Overview**<br>
-In this paper we critically assess the diffusion hypothesis. Using an updated and improved dataset on enforcement of the OECD Anti-foreign Bribery Convention, we find evidence that the effects of diffusion dissipate. We instead develop a new measure of corruption exposure which is highly predictive of enforcement of the Convention. Our findings intervene on the debate surrounding the "under-enforcement" of the Convention by providing an empirical baseline against.
-</p>
--->
-
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
 *Democracy, Inequality and Antitrust* <br>
@@ -55,7 +42,7 @@ In this paper we critically assess the diffusion hypothesis. Using an updated an
 
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-This paper investigates the relationship between democracy, inequality, and antitrust policy. Strong antitrust policies advance the economic and political interests of a majority of citizens and their adoption may be more likely in institutional settings that weigh more heavily the interest of voters. Rising inequality may, on the one hand, increase voter demands for strict antitrust policies, or, on the other hand indicate greater interest and resources aimed at blocking such reforms. We find that democracy is predictive of stricter antitrust policies only in countries with low levels of inequality. This result is consistent with the idea that economic inequality can undermine the democratic forces that tend toward stronger antitrust policy. We then investigate an important supposed exception to this pattern: the case of progressive era US reforms. (Available upon request)</p><br>
+This paper investigates the relationship between democracy, inequality, and antitrust policy. Strong antitrust policies advance the economic and political interests of a majority of citizens and their adoption may be more likely in institutional settings that weigh more heavily the interest of voters. Rising inequality may, on the one hand, increase voter demands for strict antitrust policies, or, on the other hand indicate greater interest and resources aimed at blocking such reforms. We find that democracy is predictive of stricter antitrust policies only in countries with low levels of inequality. This result is consistent with the idea that economic inequality can undermine the democratic forces that tend toward stronger antitrust policy. We then investigate an important supposed exception to this pattern: the case of progressive era US reforms. (Available upon request)</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
@@ -63,7 +50,7 @@ This paper investigates the relationship between democracy, inequality, and anti
 (with [Elizabeth Acorn](http://www.elizabethacorn.com))
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-Can prosecutions by US authorities help spread enforcement of anti-foreign bribery laws to other countries? In this article, we explore this question by re-examining an earlier study that found that US prosecutions of foreign defendants under the Foreign Corrupt Practices Act increases the likelihood that the defendant’s home state will enforces its own anti-foreign bribery laws. Using our updated and improved dataset, we find that the relationship reported in earlier scholarship does not hold. Instead, our research indicates that the exposure of states to risks of foreign bribery is an important and overlooked predictor of the likelihood of enforcement. We outline promising avenues for future research on transnational law enforcement relating to bribery in international business and in other areas.</p><br>
+Can prosecutions by US authorities help spread enforcement of anti-foreign bribery laws to other countries? In this article, we explore this question by re-examining an earlier study that found that US prosecutions of foreign defendants under the Foreign Corrupt Practices Act increases the likelihood that the defendant’s home state will enforces its own anti-foreign bribery laws. Using our updated and improved dataset, we find that the relationship reported in earlier scholarship does not hold. Instead, our research indicates that the exposure of states to risks of foreign bribery is an important and overlooked predictor of the likelihood of enforcement. We outline promising avenues for future research on transnational law enforcement relating to bribery in international business and in other areas.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
