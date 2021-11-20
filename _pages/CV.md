@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-You can find my CV [here.](/assets/pdf/MAllen%20-%20CV%208-2021.pdf)
+You can find my CV [here.](/assets/pdf/MAllen%20-%20CV%2010-2021.pdf)
