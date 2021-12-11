@@ -20,7 +20,7 @@ In this paper I argue that the growth of ICA has eroded the link between domesti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy](/assets/papers/AllenScheve_Competition_July2021.pdf) **(revise and resubmit)**
+[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy](/assets/papers/AllenScheve_Competition_July2021.pdf) **(Accepted,** ***International Studies Review*** **)**
 <br>
 (with [Kenneth Scheve](https://scheve-research.org/))
 <p style="margin-left:5%" markdown="1">
