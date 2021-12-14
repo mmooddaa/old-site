@@ -20,7 +20,7 @@ In this paper I argue that the growth of ICA has eroded the link between domesti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy](/assets/papers/AllenScheve_Competition_July2021.pdf) **(Accepted,** ***International Studies Review*** **)**
+[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy](/assets/papers/AllenScheve_Competition_July2021.pdf) **(Accepted,** ***International Studies Review***<b>)</b>
 <br>
 (with [Kenneth Scheve](https://scheve-research.org/))
 <p style="margin-left:5%" markdown="1">
@@ -37,7 +37,7 @@ How do local development incentives shift when authority traditionally rooted in
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[Democracy, Inequality and Antitrust](/assets/papers/Allen_Scheve_Stasavage_IPES_2021_Antitrust.pdf) <br>
+[Democracy, Inequality, and Antitrust](/assets/papers/Allen_Scheve_Stasavage_IPES_2021_Antitrust.pdf) **(Under Review)** <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
 
 <p style="margin-left:5%" markdown="1">
