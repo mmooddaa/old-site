@@ -6,10 +6,19 @@ description:
 nav: true
 ---
 <div align="center" markdown="1">
-[Working Papers](#working-papers) &middot; [Dissertation Project](#dissertation-project) &middot; [Works in Progress](#works-in-progress)
+[Publications](#publications) &middot; [Working Papers](#working-papers) &middot; [Dissertation Project](#dissertation-project) &middot; [Works in Progress](#works-in-progress)
 </div>
 
-<hr class="sectiondiv">
+<hr class="sectiondiv"><br>
+
+### Publications
+
+Forthcoming. [Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](/assets/papers/AllenScheve_Competition_July2021.pdf) *International Studies Review*. (with [Kenneth Scheve](https://scheve-research.org/))
+<p style="margin-left:5%" markdown="1">
+**Overview**<br>
+From the earliest antitrust policy debates, concerns that robust competition policies aimed at limiting economic concentration would disadvantage domestic producers featured prominently. This dynamic creates an international cooperation problem over competition policy that has intensified with the dramatic increases in globalization over the last several decades. We argue that major democratic powers have played a critical role in overcoming this cooperation problem and shaping the limited cooperation that has been achieved. We demonstrate this through both a cross-national event history analysis as well as case studies of two international waves of antitrust legislation after World War II and the Cold War.</p><br>
+
+<hr class="sectiondiv"><br>
 
 ### Working Papers
 
@@ -20,13 +29,12 @@ In this paper I argue that the growth of ICA has eroded the link between domesti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy](/assets/papers/AllenScheve_Competition_July2021.pdf) **(Accepted,** ***International Studies Review***<b>)</b>
-<br>
-(with [Kenneth Scheve](https://scheve-research.org/))
+[Democracy, Inequality, and Antitrust](/assets/papers/DemIneqAntitrust_Dec2021.pdf) **(Under Review)** <br>
+(with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
+
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-From the earliest antitrust policy debates, concerns that robust competition policies aimed at limiting economic concentration would disadvantage domestic producers featured prominently. This dynamic creates an international cooperation problem over competition policy that has intensified with the dramatic increases in globalization over the last several decades. We argue that democratic hegemons have played a critical role in overcoming this cooperation problem and shaping the limited cooperation that has been achieved. We demonstrate this through both a cross-national event history analysis as well as case studies of two international waves of antitrust legislation after World War II and the Cold War.
-</p>
+This paper investigates the relationship between democracy, inequality, and antitrust policy. Strong antitrust policies advance the economic and political interests of a majority of citizens and their adoption may be more likely in institutional settings that weigh more heavily the interest of voters. Rising inequality may, on the one hand, increase voter demands for strict antitrust policies, or, on the other hand indicate greater interest and resources aimed at blocking such reforms. We find that democracy is predictive of stricter antitrust policies only in countries with low levels of inequality. This result is consistent with the idea that economic inequality can undermine the democratic forces that tend toward stronger antitrust policy. We then investigate an important supposed exception to this pattern: the case of progressive era US reforms.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
@@ -34,15 +42,6 @@ From the earliest antitrust policy debates, concerns that robust competition pol
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 How do local development incentives shift when authority traditionally rooted in domestic state institutions has been delegated to transnational institutions? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule-of-law states.</p>
-
-<center>&middot; &middot; &middot; &middot; &middot;</center>
-
-[Democracy, Inequality, and Antitrust](/assets/papers/DemIneqAntitrust_Dec2021.pdf) **(Under Review)** <br>
-(with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
-
-<p style="margin-left:5%" markdown="1">
-**Overview**<br>
-This paper investigates the relationship between democracy, inequality, and antitrust policy. Strong antitrust policies advance the economic and political interests of a majority of citizens and their adoption may be more likely in institutional settings that weigh more heavily the interest of voters. Rising inequality may, on the one hand, increase voter demands for strict antitrust policies, or, on the other hand indicate greater interest and resources aimed at blocking such reforms. We find that democracy is predictive of stricter antitrust policies only in countries with low levels of inequality. This result is consistent with the idea that economic inequality can undermine the democratic forces that tend toward stronger antitrust policy. We then investigate an important supposed exception to this pattern: the case of progressive era US reforms.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
