@@ -37,7 +37,7 @@ How do local development incentives shift when authority traditionally rooted in
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[Democracy, Inequality, and Antitrust](/assets/papers/Allen_Scheve_Stasavage_IPES_2021_Antitrust.pdf) **(Under Review)** <br>
+[Democracy, Inequality, and Antitrust](/assets/papers/DemIneqAntitrust_Dec2021.pdf) **(Under Review)** <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
 
 <p style="margin-left:5%" markdown="1">
