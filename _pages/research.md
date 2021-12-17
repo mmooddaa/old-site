@@ -13,7 +13,8 @@ nav: true
 
 ### Publications
 
-Forthcoming. [Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](/assets/papers/AllenScheve_Competition_July2021.pdf) *International Studies Review*. (with [Kenneth Scheve](https://scheve-research.org/))
+Forthcoming. [Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](/assets/papers/AllenScheve_Competition_July2021.pdf) *International Studies Review*. (with [Kenneth Scheve](https://scheve-research.org/)) [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)]
+
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 From the earliest antitrust policy debates, concerns that robust competition policies aimed at limiting economic concentration would disadvantage domestic producers featured prominently. This dynamic creates an international cooperation problem over competition policy that has intensified with the dramatic increases in globalization over the last several decades. We argue that major democratic powers have played a critical role in overcoming this cooperation problem and shaping the limited cooperation that has been achieved. We demonstrate this through both a cross-national event history analysis as well as case studies of two international waves of antitrust legislation after World War II and the Cold War.</p><br>
@@ -22,14 +23,14 @@ From the earliest antitrust policy debates, concerns that robust competition pol
 
 ### Working Papers
 
-[Is International Commercial Arbitration a Complement or Substitute for Domestic Legal Institutions?](/assets/papers/MAllen_2021_ICA_Sub_or_Comp.pdf) **(revise and resubmit)**
+[Is International Commercial Arbitration a Complement or Substitute for Domestic Legal Institutions?](/assets/papers/MAllen_2021_ICA_Sub_or_Comp.pdf) **(Revise and resubmit)**
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[Democracy, Inequality, and Antitrust](/assets/papers/DemIneqAntitrust_Dec2021.pdf) **(Under Review)** <br>
+[Democracy, Inequality, and Antitrust](/assets/papers/DemIneqAntitrust_Dec2021.pdf) **(Under review)** <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
 
 <p style="margin-left:5%" markdown="1">
