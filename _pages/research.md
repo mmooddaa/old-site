@@ -89,7 +89,7 @@ Finally, I use data on the enactment of legislation based on the UN Commission o
   </p>
 
 - *Crisis, Expanding Mandates and the Popular Legitimacy of Central Bank Independence* <br>
-(with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com))
+(with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) [[Preregistration Materials](https://osf.io/axq5c/)]
 
   <p style="margin-left:5%" markdown="1">
   **Overview**<br>
