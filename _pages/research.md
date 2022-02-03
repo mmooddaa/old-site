@@ -88,9 +88,9 @@ Finally, I use data on the enactment of legislation based on the UN Commission o
 
   </p>
 
-- *Crisis, Expanding Mandates and the Popular Legitimacy of Central Bank Independence* <br>
+- *Crisis, Intervention and the Politics of Central Bank Independence* <br>
 (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) [[Preregistration Materials](https://osf.io/axq5c/)]
 
   <p style="margin-left:5%" markdown="1">
   **Overview**<br>
-  We are in the process of designing and deploying a nationally representative survey in the United States to examine the political determinants of attitudes towards central bank independence, focusing on the effects of recent expansions in central bank mandates and activities seen in the US and around the world since the 2008 financial crisis. This research is supported by the [Institute for Humane Studies](https://theihs.org) at George Mason University.</p>
+  We are in the process of deploying a nationally representative survey in the United States to examine the political determinants of attitudes towards central bank independence, focusing on the effects of the Fed's expansion of foreign lending operations since the 2008 financial crisis. This research is supported by the [Institute for Humane Studies](https://theihs.org) at George Mason University.</p>
