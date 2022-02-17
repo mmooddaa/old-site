@@ -46,7 +46,7 @@ What happens to a public, domestic institution when its authority is delegated t
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2021_Spillover.pdf) <br>
+[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2022_Spillover.pdf) <br>
 (with [Elizabeth Acorn](http://www.elizabethacorn.com))
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
