@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 <div align="center" markdown="1">
-[Publications](#publications) &middot; [Working Papers](#working-papers) &middot; [Dissertation Project](#dissertation-project) &middot; [Works in Progress](#works-in-progress)
+[Publications](#publications) &middot; [Working Papers](#working-papers) &middot; [Works in Progress](#works-in-progress)
 </div>
 
 <hr class="sectiondiv"><br>
@@ -58,18 +58,6 @@ Can prosecutions by US authorities help spread enforcement of anti-foreign bribe
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 I argue that the growth of enforcement of the United States Foreign Corrupt Practices Act (FCPA), which criminalizes bribery of foreign officials in exchange for a business advantage, has increased the sensitivity of foreign investors to the risks of investing in corrupt regimes. I find that FCPA enforcement has a negative effect on the intensive margin of US FDI (which I measure as aggregate employment in US-owned foreign affiliates) but little to no effect on the extensive margin (the number of US-owned foreign affiliates). (Available upon request)</p><br>
-
-<hr class="sectiondiv"><br>
-
-### Dissertation Project
-
-*Constructing International Commercial Arbitration: Traders, Lawyers and the Competition for Authority Over Global Commerce*
-
-My dissertation focuses on the privatization of international commercial dispute resolution. Specifically, I examine the creation, diffusion and consequences of international commercial arbitration (ICA). Unlike litigation in public courts, ICA is a private system of dispute resolution rooted in contract in which the parties have near complete freedom to design the process to fit their needs including the choice of venue, the relevant rules of law and the selection of arbitrators. Modern ICA laws allow for the enforcement arbitration agreements and awards with increasingly narrow opportunities for judicial oversight. How did this system come about? Why have states around the world ceded such authority to private arbitrators? And what effect does the growth of arbitration have on states’ abilities to regulate foreign commerce?
-
-I utilize extensive archival materials to trace the origins of the transnational movement behind ICA from the late 19th century to the present. I show how what began as informal, peer-driven dispute resolution process designed as an escape from public courts and the legal profession came to be dominated by the legal profession. Transnational business and legal professionals won the support of international organizations including the League of Nations and United Nations to assist in the diffusion of legal protections for ICA around the globe through the promulgation of multilateral treaties and model laws. I present a novel theory of institutional change that helps account for the out-sized role of private, professional groups in the construction of transnational legal regimes such as ICA. Beyond providing know-how and expertise to the process of institutional design, I argue that expert and professional groups seek to enhance their professional prestige and workload by shaping institutions in order to cement their own authority over the institution's mandate.
-
-Finally, I use data on the enactment of legislation based on the UN Commission on International Trade Law’s Model Law on Commercial Arbitration as well as case, roster and professional membership data from leading arbitration centers and professional institutions to examine the effect of ICA on the authority of domestic courts. I show the ICA serves as a systemic substitute for local courts in regard to foreign direct investment, negating the well-known sensitivity of foreign direct investors to the quality of local legal institutions. The growth of ICA the indirect effect of siphoning talent out of the local legal profession and reducing pressure from local and international commercial interest groups for state investment in progressive rule of law reforms.<br><br>
 
 <hr class="sectiondiv"><br>
 
