@@ -13,7 +13,7 @@ nav: true
 
 ### Publications
 
-Forthcoming. [Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](/assets/papers/AllenScheve_Competition_July2021.pdf) *International Studies Review*. (with [Kenneth Scheve](https://scheve-research.org/)) [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)]
+Forthcoming. [Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](https://doi.org/10.1093/isr/viac018) *International Studies Review*. (with [Kenneth Scheve](https://scheve-research.org/)) [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)]
 
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
