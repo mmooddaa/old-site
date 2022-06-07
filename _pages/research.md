@@ -16,9 +16,11 @@ nav: true
 Forthcoming. [Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](https://doi.org/10.1093/isr/viac018) *International Studies Review*. (with [Kenneth Scheve](https://scheve-research.org/)) [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)]
 
 <p style="margin-left:5%" markdown="1">
-**Overview**<br>
-From the earliest antitrust policy debates, concerns that robust competition policies aimed at limiting economic concentration would disadvantage domestic producers featured prominently. This dynamic creates an international cooperation problem over competition policy that has intensified with the dramatic increases in globalization over the last several decades. We argue that major democratic powers have played a critical role in overcoming this cooperation problem and shaping the limited cooperation that has been achieved. We demonstrate this through both a cross-national event history analysis as well as case studies of two international waves of antitrust legislation after World War II and the Cold War.</p><br>
-
+<details>
+  <summary> <b> Overview </b> </summary>  
+  From the earliest antitrust policy debates, concerns that robust competition policies aimed at limiting economic concentration would disadvantage domestic producers featured prominently. This dynamic creates an international cooperation problem over competition policy that has intensified with the dramatic increases in globalization over the last several decades. We argue that major democratic powers have played a critical role in overcoming this cooperation problem and shaping the limited cooperation that has been achieved. We demonstrate this through both a cross-national event history analysis as well as case studies of two international waves of antitrust legislation after World War II and the Cold War.</p>
+</details>
+<br>
 <hr class="sectiondiv"><br>
 
 ### Working Papers
