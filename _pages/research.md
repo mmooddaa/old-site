@@ -54,11 +54,11 @@ Can prosecutions by US authorities help spread enforcement of anti-foreign bribe
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-*Crisis, Intervention and the Politics of Central Bank Independence* <br>
+**[Crisis, Intervention and the Politics of Central Bank Independence](/assets/papers/ISA-Allen_SahasrabuddheCentral_Bank_Survey.pdf)** <br>
 (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) [[Preregistration Materials](https://osf.io/axq5c/)]
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-The United States Federal Reserve became the world’s “lender of last resort” during the Global Financial Crisis of 2008, a role it has yet to relinquish. What effect has the globalization of the Fed’s jurisdiction had on its legitimacy as an independent, public institution? To answer this question, we develop a theory of institutional legitimacy after domestic institutions expand their reach transnationally. We test our theory using a preregistered survey experiment examining the effect of informational cues on both policy-specific support and institutional trust. We find that policy support is influenced by informational cues concerning the effectiveness and geopolitical implications of transnationalization but is unaffected by potential costs. Alternatively, only procedural cues influence overall institutional trust.</p>
+The United States Federal Reserve became the world’s “lender of last resort” during the Global Financial Crisis of 2008, a role it has yet to relinquish. What effect has the globalization of the Fed’s jurisdiction had on its legitimacy as an independent, public institution? To answer this question, we develop a theory of institutional legitimacy after domestic institutions expand their reach transnationally. We test our theory using a preregistered survey experiment examining the effect of informational cues on both policy-specific support and institutional trust. We find that policy support is influenced by informational cues concerning the effectiveness and geopolitical implications of transnationalization but is unaffected by potential costs. Alternatively, only procedural cues influence institutional trust.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
