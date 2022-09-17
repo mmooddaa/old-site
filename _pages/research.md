@@ -23,10 +23,10 @@ From the earliest antitrust policy debates, concerns that robust competition pol
 
 ### Working Papers
 
-*Is International Commercial Arbitration a Complement or Substitute for Domestic Legal Institutions?*
+**[Unbundling the State: Legal Development in an Era of Global, Private Governance](/assets/papers/MAllen-unbundling-202209.pdf)** (Under review)
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
+What happens to a public, domestic institution when its authority is delegated to a privately-run, transnational institution? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule-of-law states.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
@@ -39,10 +39,10 @@ This paper investigates the relationship between democracy, inequality, and anti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-**[Unbundling the State: Legal Development in an Era of Global, Private Governance](/assets/papers/MAllen_2022_Unbundling.pdf)** (Under review)
+*Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?*
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
-What happens to a public, domestic institution when its authority is delegated to a privately-run, transnational institution? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule-of-law states.</p>
+In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
