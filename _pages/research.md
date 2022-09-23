@@ -39,7 +39,7 @@ This paper investigates the relationship between democracy, inequality, and anti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-*Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?*
+**[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen_20220922_ICA_Sub.pdf)**
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
