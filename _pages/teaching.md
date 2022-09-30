@@ -39,3 +39,17 @@ Student evaluations available upon request.<br><br>
 - Conflict and Dispute Resolution
 - International Organizations and Law
 - International Courts
+
+<!-- Default Statcounter code for academic site http://www.modallen.com -->
+<script type="text/javascript">
+var sc_project=12801258;
+var sc_invisible=1;
+var sc_security="2cdacf08";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12801258/0/2cdacf08/1/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->

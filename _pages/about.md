@@ -19,3 +19,17 @@ Welcome!
 I am a Postdoctoral Associate at the [Jackson School of Global Affairs](https://jackson.yale.edu) and Department of Political Science at Yale University. I completed my PhD at Cornell University. My research focuses on topics in international political economy, law and organization. In my current research, I study how the growth of international commercial arbitration has influenced domestic legal development and the power of countries to regulate foreign commerce. I also have ongoing research projects in related areas including the evolution of the international arbitration profession, anti-bribery law, and global competition law.
 
 Please feel free to get in touch with me [here.](mailto:michael.allen@yale.edu)
+
+<!-- Default Statcounter code for academic site http://www.modallen.com -->
+<script type="text/javascript">
+var sc_project=12801258;
+var sc_invisible=1;
+var sc_security="2cdacf08";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12801258/0/2cdacf08/1/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
