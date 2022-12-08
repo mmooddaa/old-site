@@ -46,7 +46,7 @@ In this paper I argue that the growth of ICA has eroded the link between domesti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2022_Spillover.pdf)** (Under review) <br>
+**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2022_Spillover.pdf)** (Revise & resubmit) <br>
 (with [Elizabeth Acorn](http://www.elizabethacorn.com))
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
