@@ -20,6 +20,8 @@ I am a Postdoctoral Associate at the [Jackson School of Global Affairs](https://
 
 Please feel free to get in touch with me [here.](mailto:michael.allen@yale.edu)
 
+<a rel="me" href="https://mastodon.social/@moda"> </a>
+
 <!-- Default Statcounter code for academic site http://www.modallen.com -->
 <script type="text/javascript">
 var sc_project=12801258;
