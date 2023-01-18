@@ -13,19 +13,19 @@ nav: true
 
 ### Teaching Experience
 
-**Primary Instructor**
-- When Paper Beats Scissors: The Role of Courts in International Politics (Cornell University, 2015)
+**Instructor of Record**
+- When Paper Beats Scissors: The Role of Courts in International Politics (Cornell University)
 
 **Teaching Assistant**
-- Inquiry in Politics and Policy, with David Silbey (Cornell in Washington, 2017 & 2018)
-- The Cold War, with Matthew Evangelista (Cornell University, 2016)
-- Freedom and Justice in the Western Tradition, with Isaac Kramnick (Cornell University, 2015)
-- Democracy and Its Discontents, with Alexander Livingston (Cornell University, 2015)
-- Constitutional Law, with Joseph Margulies (Cornell University, 2014)
+- Inquiry in Politics and Policy, with Prof. David Silbey (Cornell University)
+- The Cold War, with Prof. Matthew Evangelista (Cornell University)
+- Freedom and Justice in the Western Tradition, with Prof. Isaac Kramnick (Cornell University)
+- Democracy and Its Discontents, with Prof. Alexander Livingston (Cornell University)
+- Constitutional Law, with Prof. Joseph Margulies (Cornell University)
 
 **Additional Service**
-- Fellow, [Center for Teaching Innovation](https://teaching.cornell.edu) (Cornell University, 2016-2017)
-- International Relations Minor Coordinator (Cornell University, 2016-2017)
+- Fellow, [Center for Teaching Innovation](https://teaching.cornell.edu) (Cornell University)
+- International Relations Minor Coordinator (Cornell University)
 
 Student evaluations available upon request.<br><br>
 
@@ -33,12 +33,13 @@ Student evaluations available upon request.<br><br>
 
 ### Prospective Courses
 
-- Global Economic Governance
-- Introduction to International Relations
 - International Political Economy
-- Conflict and Dispute Resolution
+- Introduction to International Relations
 - International Organizations and Law
 - International Courts
+- Conflict and Dispute Resolution
+- Global Economic Governance
+
 
 <!-- Default Statcounter code for academic site http://www.modallen.com -->
 <script type="text/javascript">
