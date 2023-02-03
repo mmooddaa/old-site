@@ -30,7 +30,7 @@ What happens to a public, domestic institution when its authority is delegated t
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-**[Democracy, Inequality, and Antitrust](/assets/papers/DemIneqAntitrust_Dec2021.pdf)** (Revise & resubmit) <br>
+**[Democracy, Inequality, and Antitrust](/assets/papers/DemIneqAntitrust_Feb2023.pdf)** (Revise & resubmit) <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
 
 <p style="margin-left:5%" markdown="1">
