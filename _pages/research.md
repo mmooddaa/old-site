@@ -77,12 +77,9 @@ I argue that the growth of enforcement of the United States Foreign Corrupt Prac
   **Overview**<br>
   I have collected nationality data on the universe of arbitrators appointed to serve on all arbitration panels registered with the International Chamber of Commerce from 2016 to the present. I am now in the process of improving and expanding this dataset and collecting detailed demographic, educational, and professional data to examine trends in the evolution of the international arbitration profession.</p>
 
-- *Populism and the Termination of Bilateral Investment Treaties* <br> (with [Jimena Valdez](https://www.lse.ac.uk/european-institute/people/valdez-jimena))
+- *Chains of Uncertainty: Domestic Institutions and Financial Costs Along Global Value Chains* <br> (with [Zoe Xincheng Ge](https://wp.nyu.edu/zoege/))
 
-  <p style="margin-left:5%" markdown="1">
-  **Overview**<br>
-
-  </p>
+- *Public Attitudes Toward Extraterritorial Law Enforcement: The Case of Anti-Foreign Bribery Law* <br> (with [Elizabeth Acorn](http://www.elizabethacorn.com))
 
 <!-- Default Statcounter code for academic site http://www.modallen.com -->
 <script type="text/javascript">

@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-You can find my CV [here.](/assets/pdf/MAllen-CV-20221208.pdf)
+You can find my CV [here.](/assets/pdf/MAllen-CV-20230830.pdf)
 
 <!-- Default Statcounter code for academic site http://www.modallen.com -->
 <script type="text/javascript">
