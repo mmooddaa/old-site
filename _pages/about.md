@@ -16,9 +16,9 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome!
 
-Beginning Fall 2023 I will be a Postdoctoral Fellow at the Weatherhead Center for International Affairs and Department of Government at [Harvard University](https://www.gov.harvard.edu/). Prior to that, I was a Postdoctoral Researcher at Yale University. I completed my PhD at Cornell University. My research focuses on topics in international political economy, law and organization. In my current research, I study how the growth of international commercial arbitration has influenced domestic legal development and the power of countries to regulate foreign commerce. I also have ongoing research projects in related areas including the evolution of the international arbitration profession, anti-bribery law, and global competition law.
+Currently, I am a Postdoctoral Fellow at the Weatherhead Center for International Affairs and Department of Government at [Harvard University](https://www.gov.harvard.edu/). Prior to that, I was a Postdoctoral Associate at Yale University. I completed my PhD at Cornell University. My research focuses on topics in international political economy, law and organization. In my current research, I study how the growth of international commercial arbitration has influenced domestic legal development and the power of countries to regulate foreign commerce. I also have ongoing research projects in related areas including the evolution of the international arbitration profession, anti-bribery law, and global competition law.
 
-Please feel free to get in touch with me [here.](mailto:michael.allen@yale.edu)
+Please feel free to get in touch with me [here.](mailto:michael_allen@fas.harvard.edu)
 
 <a rel="me" href="https://mastodon.social/@moda"> </a>
 
