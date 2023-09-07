@@ -16,7 +16,8 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome!
 
-Currently, I am a Postdoctoral Fellow at the Weatherhead Center for International Affairs and Department of Government at [Harvard University](https://www.gov.harvard.edu/). Prior to that, I was a Postdoctoral Associate at Yale University. I completed my PhD at Cornell University. My research focuses on topics in international political economy, law and organization. In my current research, I study how the growth of international commercial arbitration has influenced domestic legal development and the power of countries to regulate foreign commerce. I also have ongoing research projects in related areas including the evolution of the international arbitration profession, anti-bribery law, and global competition law.
+Currently, I am a Postdoctoral Fellow at the Weatherhead Center for International Affairs and Department of Government at [Harvard University](https://www.gov.harvard.edu/). My research interests span international political economy, international institutions, and law, with a focus on the politics of global capitalism and democracy. In my current research, I study how the growth private authority influences domestic legal development and the power of countries to regulate foreign commerce. I also have ongoing research projects in related areas including transnational anti-corruption efforts and global competition law. I was previously a Postdoctoral Associate at Yale University and I hold a PhD in Government from Cornell University.
+
 
 Please feel free to get in touch with me [here.](mailto:michael_allen@fas.harvard.edu)
 
