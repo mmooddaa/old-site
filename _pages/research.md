@@ -6,12 +6,19 @@ description:
 nav: true
 ---
 <div align="center" markdown="1">
-[Publications](#publications) &middot; [Working Papers](#working-papers) &middot; [Works in Progress](#works-in-progress)
+[Accepted and Published Papers](#accepted-and-published-papers) &middot; [Working Papers](#working-papers) &middot; [Works in Progress](#works-in-progress)
 </div>
 
 <hr class="sectiondiv"><br>
 
-### Publications
+### Accepted and Published Papers
+
+**[Unbundling the State: Legal Development in an Era of Global, Private Governance](/assets/papers/MAllen-unbundling-20230911.pdf)** (Accepted, *International Organization*)
+<p style="margin-left:5%" markdown="1">
+**Overview**<br>
+What happens to a public, domestic institution when its authority is delegated to a privately-run, transnational institution? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule-of-law states.</p>
+
+<center>&middot; &middot; &middot; &middot; &middot;</center>
 
 **[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](https://doi.org/10.1093/isr/viac018)** 2022. *International Studies Review* 24(2). (with [Kenneth Scheve](https://scheve-research.org/)) [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)]
 
@@ -22,13 +29,6 @@ From the earliest antitrust policy debates, concerns that robust competition pol
 <hr class="sectiondiv"><br>
 
 ### Working Papers
-
-**[Unbundling the State: Legal Development in an Era of Global, Private Governance](/assets/papers/MAllen-unbundling-20230911.pdf)** (Accepted, *International Organization*)
-<p style="margin-left:5%" markdown="1">
-**Overview**<br>
-What happens to a public, domestic institution when its authority is delegated to a privately-run, transnational institution? In this paper, I argue that international commercial arbitration---a private, transnational system of cross-border commercial dispute resolution---provides key interest groups that would otherwise lobby for rule of law reforms an exit option from weak local institutions which in turn reduces pressure on the state to invest in needed rule of law reforms. I test this proposition using semiparametric analysis, finding that the enactment of strong domestic protections for ICA leads to the gradual erosion of the quality of local legal institutions. The effect is most pronounced in weak rule-of-law states.</p>
-
-<center>&middot; &middot; &middot; &middot; &middot;</center>
 
 **[Democracy, Inequality, and Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)** (Revise & resubmit, *Journal of Politics*) <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
