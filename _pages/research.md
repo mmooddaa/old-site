@@ -47,18 +47,18 @@ Can prosecutions by US authorities help spread enforcement of anti-foreign bribe
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-*Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?*
-<p style="margin-left:5%" markdown="1">
-**Overview**<br>
-In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
-
-<center>&middot; &middot; &middot; &middot; &middot;</center>
-
-**[Crisis, Intervention and the Politics of Central Bank Independence](/assets/papers/ISA-Allen_SahasrabuddheCentral_Bank_Survey.pdf)** <br>
+**[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/fed-survey-20230920.pdf)** (Under review) <br>
 (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) [[Preregistration Materials](https://osf.io/axq5c/)]
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 The United States Federal Reserve became the world’s “lender of last resort” during the Global Financial Crisis of 2008, a role it has yet to relinquish. What effect has the globalization of the Fed’s jurisdiction had on its legitimacy as an independent, public institution? To answer this question, we develop a theory of institutional legitimacy after domestic institutions expand their reach transnationally. We test our theory using a preregistered survey experiment examining the effect of informational cues on both policy-specific support and institutional trust. We find that policy support is influenced by informational cues concerning the effectiveness and geopolitical implications of transnationalization but is unaffected by potential costs. Alternatively, only procedural cues influence institutional trust.</p>
+
+<center>&middot; &middot; &middot; &middot; &middot;</center>
+
+*Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?*
+<p style="margin-left:5%" markdown="1">
+**Overview**<br>
+In this paper I argue that the growth of ICA has eroded the link between domestic rule of law and foreign direct investment by offering an extra-judicial, delocalized system of dispute resolution. Using a dataset tracking implementation of the UN Commission on International Trade Law’s 1985 Model Law on International Commercial Arbitration, I find that while direct investors are attracted to states with stronger rule of law institutions, this association is negated by the enactment of arbitration-friendly laws. I find that ICA thus serves as a substitute for local courts.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
