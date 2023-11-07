@@ -39,7 +39,7 @@ This paper investigates the relationship between democracy, inequality, and anti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2022_Spillover.pdf)** (Revise & resubmit, *International Studies Quarterly*) <br>
+**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2023_Spillover.pdf)** (Revise & resubmit, *International Studies Quarterly*) <br>
 (with [Elizabeth Acorn](http://www.elizabethacorn.com))
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
