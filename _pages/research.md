@@ -13,6 +13,14 @@ nav: true
 
 ### Accepted and Published Papers
 
+**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2023_Spillover.pdf)** (Accepted, *International Studies Quarterly*) <br>
+(with [Elizabeth Acorn](http://www.elizabethacorn.com))
+<p style="margin-left:5%" markdown="1">
+**Overview**<br>
+Can prosecutions by US authorities help spread enforcement of anti-foreign bribery laws to other countries? In this article, we explore this question by re-examining an earlier study that found that US prosecutions of foreign defendants under the Foreign Corrupt Practices Act increases the likelihood that the defendant’s home state will enforces its own anti-foreign bribery laws. Using our updated and improved dataset, we find that the relationship reported in earlier scholarship does not hold. Instead, our research indicates that the exposure of states to risks of foreign bribery is an important and overlooked predictor of the likelihood of enforcement. We outline promising avenues for future research on transnational law enforcement relating to bribery in international business and in other areas.</p>
+
+<center>&middot; &middot; &middot; &middot; &middot;</center>
+
 **[Unbundling the State: Legal Development in an Era of Global, Private Governance](/assets/papers/MAllen-unbundling-20230911.pdf)** (Accepted, *International Organization*)
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
@@ -36,14 +44,6 @@ From the earliest antitrust policy debates, concerns that robust competition pol
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
 This paper investigates the relationship between democracy, inequality, and antitrust policy. Strong antitrust policies advance the economic and political interests of a majority of citizens and their adoption may be more likely in institutional settings that weigh more heavily the interest of voters. Rising inequality may, on the one hand, increase voter demands for strict antitrust policies, or, on the other hand indicate greater interest and resources aimed at blocking such reforms. We find that democracy is predictive of stricter antitrust policies only in countries with low levels of inequality. This result is consistent with the idea that economic inequality can undermine the democratic forces that tend toward stronger antitrust policy. We then investigate an important supposed exception to this pattern: the case of progressive era US reforms.</p>
-
-<center>&middot; &middot; &middot; &middot; &middot;</center>
-
-**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2023_Spillover.pdf)** (Revise & resubmit, *International Studies Quarterly*) <br>
-(with [Elizabeth Acorn](http://www.elizabethacorn.com))
-<p style="margin-left:5%" markdown="1">
-**Overview**<br>
-Can prosecutions by US authorities help spread enforcement of anti-foreign bribery laws to other countries? In this article, we explore this question by re-examining an earlier study that found that US prosecutions of foreign defendants under the Foreign Corrupt Practices Act increases the likelihood that the defendant’s home state will enforces its own anti-foreign bribery laws. Using our updated and improved dataset, we find that the relationship reported in earlier scholarship does not hold. Instead, our research indicates that the exposure of states to risks of foreign bribery is an important and overlooked predictor of the likelihood of enforcement. We outline promising avenues for future research on transnational law enforcement relating to bribery in international business and in other areas.</p>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
