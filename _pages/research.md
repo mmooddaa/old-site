@@ -13,16 +13,14 @@ nav: true
 
 ### Accepted and Published Papers
 
-**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention](/assets/papers/Acorn_Allen_2023_Spillover.pdf)** (Accepted, *International Studies Quarterly*) <br>
+**[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention.](/assets/papers/Acorn_Allen_2023_Spillover.pdf)** (Accepted, *International Studies Quarterly*)
 (with [Elizabeth Acorn](http://www.elizabethacorn.com)) 
 
-<br>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-**[Unbundling the State: Legal Development in an Era of Global, Private Governance](https://doi.org/10.1017/S0020818323000218)** 2023. *International Organization* 77(4): 754-788. [[https://doi.org/10.7910/DVN/GSVW3C](Replication Materials)] [[Preprint](/assets/papers/MAllen-unbundling-20230911.pdf)] 
+**[Unbundling the State: Legal Development in an Era of Global, Private Governance.](https://doi.org/10.1017/S0020818323000218)** 2023. *International Organization* 77(4): 754-788. [[Replication Materials](https://doi.org/10.7910/DVN/GSVW3C)] [[Preprint](/assets/papers/MAllen-unbundling-20230911.pdf)] 
 
-<br>
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
