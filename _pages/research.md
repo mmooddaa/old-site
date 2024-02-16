@@ -41,7 +41,7 @@ This paper investigates the relationship between democracy, inequality, and anti
 
 <center>&middot; &middot; &middot; &middot; &middot;</center>
 
-**[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/fed-survey-20230920.pdf)** (Under review) <br>
+**[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/fed-survey-20240215.pdf)** (Under review) <br>
 (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) [[Preregistration Materials](https://osf.io/axq5c/)]
 <p style="margin-left:5%" markdown="1">
 **Overview**<br>
